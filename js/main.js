@@ -13,4 +13,3 @@ function campOmplert(valor) {
  */
 function mostrarMissatge(valor) {
   alert(campOmplert(valor) ? "Gràcies!" : "Cal omplir el camp.");
-}
